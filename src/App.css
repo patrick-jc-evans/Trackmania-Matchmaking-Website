@@ -5,3 +5,7 @@ body {
 p {
     margin: 0px;
 }
+
+main {
+    padding-top: 3rem;
+}
