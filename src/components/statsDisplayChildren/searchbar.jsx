@@ -7,7 +7,7 @@ function Searchbar() {
                 <input
                     id="player-search"
                     className="player-search-input"
-                    placeholder="Massa.4PF"
+                    placeholder="Search for a player"
                 ></input>
             </form>
         </>

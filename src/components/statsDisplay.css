@@ -18,9 +18,16 @@ main {
         text-align: center;
     }
     .player-search-input {
+        font-family: "Michroma";
         text-align: center;
         margin-left: auto;
         margin-right: auto;
+        padding: 0rem;
+        font-size: 1.4rem;
+        border-style: none;
+        border-bottom-style: solid;
+        border-bottom-color: #105349;
+        width: 80%;
     }
 
     .winrate-piechart {
